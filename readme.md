@@ -82,7 +82,7 @@ Para crear html y ver reporte
 
 A continuación, se muestra un ejemplo del reporte generado después de ejecutar las pruebas:
 
-![Reporte de Pruebas](utils/assets/demo_report.png)
+![Reporte de Pruebas](utils/assets/demo_report.jpg)
 
 ## Authors
 
